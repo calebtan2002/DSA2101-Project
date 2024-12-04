@@ -2,7 +2,7 @@
 # Website URL to view Project: https://calebtan2002.github.io/DSA2101-Project/
 ## Project Title: A Glimpse Into the 2024 Stack Overflow Survey: Insights and Analysis
 ## Overview:
-This project is done as part of my DSA2101 module annd provides a detailed analysis of the 2024 Stack Overflow Developer Survey, highlighting key trends and insights about the developer community. The analysis is designed to inform stakeholders about developer preferences, skills, tools, and technologies shaping the industry.
+This project was done as part of my DSA2101 module annd provides a detailed analysis of the 2024 Stack Overflow Developer Survey, highlighting key trends and insights about the developer community. The analysis is designed to inform stakeholders about developer preferences, skills, tools, and technologies shaping the industry.
 
 ## Key Features:
 ### Data Cleaning & Preparation: 
